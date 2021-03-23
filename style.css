@@ -46,9 +46,14 @@ ol{
 
 p{
   color: pink;
-  font-size: 20px
+  font-size: 30px
 }
 
 a{
   font-size: 30px
+}
+
+p{
+  font-size: 30px;
+  color: pink
 }
